@@ -1,0 +1,4 @@
+streamlit
+numpy
+py tesseract
+opencv-contrib-python-headless==4.4.0.46
